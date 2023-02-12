@@ -2,7 +2,7 @@
  * @Author: 大蒙
  * @Date: 2023-02-12 04:39:01
  * @LastEditors: 大蒙
- * @LastEditTime: 2023-02-12 20:38:25
+ * @LastEditTime: 2023-02-12 20:48:51
  * @FilePath: /vue3_vite_ts/src/App.vue
  * @Description: 
  * 
@@ -19,7 +19,6 @@ import HelloWorld from './components/HelloWorld.vue'
         </a>
         <a href="https://vuejs.org/" target="_blank">
             <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
-            1
         </a>
     </div>
     <HelloWorld msg="Vite + Vue" />
