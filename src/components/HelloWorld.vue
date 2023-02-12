@@ -1,3 +1,13 @@
+<!--
+ * @Author: 大蒙
+ * @Date: 2023-02-12 18:57:26
+ * @LastEditors: 大蒙
+ * @LastEditTime: 2023-02-12 20:09:47
+ * @FilePath: /vue3_vite_ts/src/components/HelloWorld.vue
+ * @Description: 
+ * 
+ * Copyright (c) 2023 by 启益医疗, All Rights Reserved. 
+-->
 <script setup lang="ts">
 import { ref } from 'vue'
 
@@ -17,7 +27,7 @@ const count = ref(0)
         </p>
     </div>
 
-    <p>
+    <p class="test">
         Check out
         <a href="https://vuejs.org/guide/quick-start.html#local" target="_blank">create-vue</a>, the official Vue + Vite starter
     </p>
@@ -29,8 +39,4 @@ const count = ref(0)
     <p class="read-the-docs">Click on the Vite and Vue logos to learn more</p>
 </template>
 
-<style scoped>
-.read-the-docs {
-    color: #888;
-}
-</style>
+<style scoped lang="scss"></style>

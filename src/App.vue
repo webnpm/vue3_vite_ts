@@ -2,8 +2,8 @@
  * @Author: 大蒙
  * @Date: 2023-02-12 04:39:01
  * @LastEditors: 大蒙
- * @LastEditTime: 2023-02-12 07:51:59
- * @FilePath: \vue3_vite_ts\src\App.vue
+ * @LastEditTime: 2023-02-12 18:59:51
+ * @FilePath: /vue3_vite_ts/src/App.vue
  * @Description: 
  * 
  * Copyright (c) 2023 by 启益医疗, All Rights Reserved. 
