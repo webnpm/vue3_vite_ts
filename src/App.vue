@@ -2,7 +2,7 @@
  * @Author: 大蒙
  * @Date: 2023-02-12 04:39:01
  * @LastEditors: 大蒙
- * @LastEditTime: 2023-02-12 21:25:18
+ * @LastEditTime: 2023-02-12 21:27:30
  * @FilePath: /vue3_vite_ts/src/App.vue
  * @Description: 
  * 
@@ -14,9 +14,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
     <div>
-        <a href="https://vitejs.dev" target="_blank">
-            <img src="/vite.svg" class="logo" alt="Vite logo" />
-        </a>
+        <a href="https://vitejs.dev" target="_blank"> <img src="/vite.svg" class="logo" alt="Vite logo" />11 </a>
         <a href="https://vuejs.org/" target="_blank">
             <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
         </a>
