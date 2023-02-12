@@ -2,7 +2,7 @@
  * @Author: 大蒙
  * @Date: 2023-02-12 04:39:01
  * @LastEditors: 大蒙
- * @LastEditTime: 2023-02-12 21:21:07
+ * @LastEditTime: 2023-02-12 21:23:49
  * @FilePath: /vue3_vite_ts/src/App.vue
  * @Description: 
  * 
@@ -21,6 +21,7 @@ import HelloWorld from './components/HelloWorld.vue'
 <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
 </a>
 </div>
+
 <HelloWorld msg="Vite + Vue" />
 </template>
 
