@@ -36,10 +36,11 @@
     },
     "lint-staged": {
         "*.{js,jsx,vue,ts,tsx}": [
-            "yarn lint",
+            "pnpm lint",
             "prettier --write",
             "git add"
         ],
-        "*.{ts,tsx,vue,js,jsx}": "eslint --cache --fix"
+        "*.{ts,tsx,vue,js,jsx}": "eslint --cache --fix",
+        "*.js": "eslint --cache --fix"
     }
 }
