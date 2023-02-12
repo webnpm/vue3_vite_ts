@@ -17,14 +17,14 @@ export default defineConfig({
     plugins: [vue()],
     resolve: {
         alias: {
-            '@': path.resolve(__dirname, 'src')
-        }
+            '@': path.resolve(__dirname, 'src'),
+        },
     },
     css: {
         preprocessorOptions: {
             scss: {
-                additionalData: `@import "@/style/variables.scss";`
-            }
-        }
-    }
+                additionalData: `@import "@/style/variables.scss";`,
+            },
+        },
+    },
 })

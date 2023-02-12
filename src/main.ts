@@ -4,9 +4,9 @@
  * @LastEditors: 大蒙
  * @LastEditTime: 2023-02-12 20:15:05
  * @FilePath: /vue3_vite_ts/src/main.ts
- * @Description: 
- * 
- * Copyright (c) 2023 by 启益医疗, All Rights Reserved. 
+ * @Description:
+ *
+ * Copyright (c) 2023 by 启益医疗, All Rights Reserved.
  */
 import { createApp } from 'vue'
 import '@/style/main.scss'

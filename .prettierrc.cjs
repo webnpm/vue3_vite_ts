@@ -26,9 +26,8 @@ module.exports = {
     arrowParens: 'always',
 }
 
-
 // .prettierrc.cjs
- 
+
 // module.exports = {
 //     // 一行最多100个字符
 //     printWidth:80,

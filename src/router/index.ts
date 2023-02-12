@@ -4,9 +4,9 @@
  * @LastEditors: 大蒙
  * @LastEditTime: 2023-02-12 20:32:43
  * @FilePath: /vue3_vite_ts/src/router/index.ts
- * @Description: 
- * 
- * Copyright (c) 2023 by 启益医疗, All Rights Reserved. 
+ * @Description:
+ *
+ * Copyright (c) 2023 by 启益医疗, All Rights Reserved.
  */
 import { createRouter, createWebHistory, RouteRecordRaw } from 'vue-router'
 
