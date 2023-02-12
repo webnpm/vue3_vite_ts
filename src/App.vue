@@ -2,7 +2,7 @@
  * @Author: 大蒙
  * @Date: 2023-02-12 04:39:01
  * @LastEditors: 大蒙
- * @LastEditTime: 2023-02-12 07:44:42
+ * @LastEditTime: 2023-02-12 07:51:59
  * @FilePath: \vue3_vite_ts\src\App.vue
  * @Description: 
  * 
@@ -10,8 +10,6 @@
 -->
 <script setup lang="ts">
 import HelloWorld from './components/HelloWorld.vue'
-
-const demo = [1, 2, 3, 43, 5]
 </script>
 
 <template>
