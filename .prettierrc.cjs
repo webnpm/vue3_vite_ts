@@ -1,29 +1,29 @@
 /*
- * @Author: 大蒙
- * @Date: 2023-02-12 06:43:38
- * @LastEditors: 大蒙
- * @LastEditTime: 2023-02-12 07:36:36
- * @FilePath: \vue3_vite_ts\.prettierrc.cjs
- * @Description:
- *
- * Copyright (c) 2023 by 启益医疗, All Rights Reserved.
- */
+* @Author: 大蒙
+* @Date: 2023-02-12 06:43:38
+* @LastEditors: 大蒙
+* @LastEditTime: 2023-02-12 07:36:36
+* @FilePath: \vue3_vite_ts\.prettierrc.cjs
+* @Description:
+*
+* Copyright (c) 2023 by 启益医疗, All Rights Reserved.
+*/
 module.exports = {
-    tabWidth: 4,
-    jsxSingleQuote: true,
-    jsxBracketSameLine: true,
-    printWidth: 200,
-    singleQuote: true,
-    semi: false,
-    overrides: [
-        {
-            files: '*.json',
-            options: {
-                printWidth: 200,
-            },
-        },
-    ],
-    arrowParens: 'always',
+tabWidth: 4,
+jsxSingleQuote: true,
+jsxBracketSameLine: true,
+printWidth: 200,
+singleQuote: true,
+semi: false,
+overrides: [
+{
+files: '*.json',
+options: {
+printWidth: 200,
+},
+},
+],
+arrowParens: 'always',
 }
 
 // .prettierrc.cjs

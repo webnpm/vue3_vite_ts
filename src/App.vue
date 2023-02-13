@@ -1,12 +1,12 @@
 <!--
- * @Author: 大蒙
- * @Date: 2023-02-12 04:39:01
- * @LastEditors: 大蒙
- * @LastEditTime: 2023-02-13 08:38:39
- * @FilePath: /vue3_vite_ts/src/App.vue
- * @Description: 
- * 
- * Copyright (c) 2023 by 启益医疗, All Rights Reserved. 
+* @Author: 大蒙
+* @Date: 2023-02-12 04:39:01
+* @LastEditors: 大蒙
+* @LastEditTime: 2023-02-13 19:27:48
+* @FilePath: \vue3_vite_ts\src\App.vue
+* @Description: 
+* 
+* Copyright (c) 2023 by 启益医疗, All Rights Reserved. 
 -->
 <script setup lang="ts">
 import HelloWorld from './components/HelloWorld.vue'
