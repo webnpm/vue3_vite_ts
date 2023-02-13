@@ -2,8 +2,8 @@
  * @Author: 大蒙
  * @Date: 2023-02-12 21:19:25
  * @LastEditors: 大蒙
- * @LastEditTime: 2023-02-13 19:04:53
- * @FilePath: \vue3_vite_ts2\vue3_vite_ts\README.md
+ * @LastEditTime: 2023-02-13 19:21:40
+ * @FilePath: \vue3_vite_ts\README.md
  * @Description: 
  * 
  * Copyright (c) 2023 by 启益医疗, All Rights Reserved. 
@@ -33,6 +33,3 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
 # git commit 执行的时候 无法lint 检查 和 代码美化
 
 npx mrm lint-staged
-
-
-
